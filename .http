@@ -17,7 +17,7 @@ Content-Type: application/json
   "title": "New Book"
 }
 
-### Incorrectly a new book
+### Incorrectly add a new book
 POST {{host}}/books/
 Content-Type: application/json
 
